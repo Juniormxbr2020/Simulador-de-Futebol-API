@@ -1,2 +1,4 @@
 # Simulador de Futebol API
-Consumir os dados
+
+
+API (provida via GitHub Pages) do App Simulador de Futebol
